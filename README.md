@@ -31,4 +31,4 @@
 
 ## 프로젝트 아키텍쳐
 
-<img src="./arch.png" alt="">
+<img src="./newarch.png" alt="">
