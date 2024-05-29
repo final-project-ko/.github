@@ -35,5 +35,5 @@
 
 ## 애플리케이션 화면 (Application Screens)
 <img src="./a1.png" alt="">
-<img src="./a2.jpg" alt="" style="width: 50%; height: auto;">
-<img src="./a3.jpg" alt="" style="width: 50%; height: auto;">
+<img src="./a2.jpg" alt="" style="width: 25%; height: auto;">
+<img src="./a3.jpg" alt="" style="width: 25%; height: auto;">
