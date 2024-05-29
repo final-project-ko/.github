@@ -33,3 +33,5 @@
 
 <img src="./newarch.png" alt="">
 <img src="./a1.png" alt="">
+<img src="./a2.jpg" alt="">
+<img src="./a3.jpg" alt="">
