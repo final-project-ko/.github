@@ -32,5 +32,4 @@
 ## 프로젝트 아키텍쳐
 
 <img src="./newarch.png" alt="">
-![스크린샷(45)](https://github.com/final-project-ko/.github/assets/60908387/d46869a8-5fc1-4775-be71-d01f289f1d35)
 
